@@ -2,7 +2,7 @@
 
 This is the jobs listing project created to revise React.
 
-<img src="public/screen.png" />
+<img src="public/React-Jobs.png" />
 
 ## Usage
 
